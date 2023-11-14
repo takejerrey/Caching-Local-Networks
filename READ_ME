@@ -1,0 +1,1 @@
+The purposes of this program is read standard input from a file and store it into a struct array. This input symbolizes networks a device can connect to. This program will cache all networks that the device has the ability to connect to. It will then go through the networks based off of connection type, and strength, in order to determine the best network.
